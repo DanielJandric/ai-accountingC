@@ -159,7 +159,7 @@ const AIAccountingAutomationApp = () => {
       <div className="text-center mb-8">
         <h2 className="text-3xl font-bold text-gray-800 mb-4">Architecture Hybride Modulaire</h2>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-          Une architecture open-source et interopérable optimisée pour l'automatisation comptable intelligente, 
+          Une architecture open-source et interopérable optimisée pour l&apos;automatisation comptable intelligente, 
           combinant ERP traditionnel et IA de pointe avec une conformité Swiss GAAP FER.
         </p>
       </div>
@@ -340,7 +340,7 @@ const AIAccountingAutomationApp = () => {
               <Activity className="w-5 h-5 text-yellow-500 mr-2 mt-0.5" />
               <div>
                 <strong>Continuité Opérationnelle</strong>
-                <p className="text-sm text-gray-600">Backups automatisés et plan de reprise d'activité</p>
+                <p className="text-sm text-gray-600">Backups automatisés et plan de reprise d&apos;activité</p>
               </div>
             </li>
           </ul>
@@ -384,7 +384,7 @@ const AIAccountingAutomationApp = () => {
       <div className="text-center mb-8">
         <h2 className="text-3xl font-bold text-gray-800 mb-4">Métriques & Retour sur Investissement</h2>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-          Une solution économique avec un ROI rapide et des gains d'efficacité mesurables
+          Une solution économique avec un ROI rapide et des gains d&apos;efficacité mesurables
         </p>
       </div>
 
@@ -406,7 +406,7 @@ const AIAccountingAutomationApp = () => {
         
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div>
-            <h4 className="text-lg font-semibold text-gray-700 mb-4">Gains d'Efficacité</h4>
+            <h4 className="text-lg font-semibold text-gray-700 mb-4">Gains d&apos;Efficacité</h4>
             <div className="space-y-3">
               <div className="flex justify-between items-center p-3 bg-green-50 rounded-lg">
                 <span className="text-gray-700">Réduction temps de saisie</span>
@@ -435,7 +435,7 @@ const AIAccountingAutomationApp = () => {
                 <span className="font-bold text-blue-600">8-15k CHF</span>
               </div>
               <div className="flex justify-between items-center p-3 bg-blue-50 rounded-lg">
-                <span className="text-gray-700">Réduction coûts d'audit</span>
+                <span className="text-gray-700">Réduction coûts d&apos;audit</span>
                 <span className="font-bold text-blue-600">-40%</span>
               </div>
               <div className="flex justify-between items-center p-3 bg-blue-50 rounded-lg">
@@ -473,7 +473,7 @@ const AIAccountingAutomationApp = () => {
       </div>
 
       <div className="bg-gradient-to-r from-indigo-600 to-purple-600 text-white rounded-xl p-8">
-        <h3 className="text-2xl font-bold mb-4">Plan d'Implémentation</h3>
+        <h3 className="text-2xl font-bold mb-4">Plan d&apos;Implémentation</h3>
         <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
           <div className="text-center">
             <div className="bg-white/20 rounded-lg p-4 mb-3">
